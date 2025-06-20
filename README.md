@@ -29,6 +29,9 @@
 
 Optern aims to simulate real-world job preparation in a fully virtual space, helping students build confidence, sharpen their technical communication, and improve their career readiness.
 
-# FrontEnd --> https://github.com/AbdelattyBadwy16/Optern-Frontend
-@ Backend --> https://github.com/AbdelattyBadwy16/Optern-Backend
-# Ai --> https://github.com/AbdelattyBadwy16/Optern_ai_roomRecommendation
+## 🔗 Project Repositories
+
+- **Frontend**: [Optern-Frontend](https://github.com/AbdelattyBadwy16/Optern-Frontend)  
+- **Backend**: [Optern-Backend](https://github.com/AbdelattyBadwy16/Optern-Backend)  
+- **AI Module (Room Recommendation)**: [Optern_ai_roomRecommendation](https://github.com/AbdelattyBadwy16/Optern_ai_roomRecommendation)
+
