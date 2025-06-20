@@ -23,7 +23,7 @@
 - **APIs**: RESTful APIs, GraphQL  
 - **Database**: PostgreSQL  
 - **Caching**: Redis  
-- **AI/NLP**: Natural Language Processing for CV scoring and interview analysis
+- **AI/NLP**: Natural Language Processing for Room Recommendation System
 
 ## 📚 Purpose
 
